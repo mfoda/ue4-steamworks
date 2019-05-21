@@ -1,0 +1,12 @@
+"DepotBuildConfig"
+{
+	"DepotID" "xxxxxxx"
+	"contentroot" "./GamePath"
+	"FileMapping"
+	{
+		"LocalPath" "*"
+		"DepotPath" "./GameInstallPath"
+		"recursive" "1"
+	}
+	"FileExclusion" "*.pdb"
+}
